@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on TechBox.
-- 🌱 I’m currently learning Dart.
-- 👯 I’m looking to collaborate on Yputube.
+- 🌱 I’m currently learning riverpod state management.
+- 👯 I’m looking to collaborate on Youtube.
 - 💬 Ask me about Flutter or any tech realted stuff.
 - 📫 How to reach me:
 -  [Twitter - @hadi_murtaja](https://twitter.com/hadi_murtaja) 
